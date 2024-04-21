@@ -1,0 +1,3 @@
+/home/mug1vara/projects/leetcode/10/BasicCalculator/build/CMakeFiles/test.dir
+/home/mug1vara/projects/leetcode/10/BasicCalculator/build/CMakeFiles/edit_cache.dir
+/home/mug1vara/projects/leetcode/10/BasicCalculator/build/CMakeFiles/rebuild_cache.dir
